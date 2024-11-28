@@ -1,0 +1,8 @@
+env: "prod"
+client:
+  sso:
+    address: sso:44044
+    timeout: 4s
+    retriesCount: 4
+APP_SECRET: "secret"
+port: 8080
